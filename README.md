@@ -22,5 +22,5 @@ google_fonts: ^6.1.0
 flutter_vector_icons: ^2.0.0
 smooth_page_indicator: ^1.1.0
 ##이렇게 사용중임 
-
+1/26/28
 https://www.dbestech.com/tutorials/flutter-riverpod-sqlite-firebase-task-management-app

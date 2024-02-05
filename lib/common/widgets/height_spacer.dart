@@ -11,6 +11,7 @@ class HeightSpacer extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     ///실제 코드에서는 안그랬는데 나는 .h로 함. 왜 안한건지는 모름
+    ///1:44:14에는 바꿔줌 내가 맞음
     return SizedBox(height: height.h,);
   }
 }
