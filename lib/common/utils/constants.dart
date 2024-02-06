@@ -21,4 +21,6 @@ class AppConst{
   //앱 main dart에서 설정 높이를 375*825로 해줘서 여기서 .w .h 를 해줘야함
   static double kWidth =375.w;
   static double kHeight = 825.h;
+  static double kRadius = 12.h;
+
 }
